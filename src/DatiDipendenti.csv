@@ -1,0 +1,16 @@
+tipo,nome,stipendioBase,dettaglio,progetti
+Manager,Laura Bianchi,3200.00,800.00,Portale Clienti;App Mobile
+Manager,Marco Ferrari,3500.00,950.00,Migrazione Cloud
+Manager,Giulia Romano,3100.00,700.00,CRM Aziendale;Sito E-commerce
+Sviluppatore,Luca Esposito,2100.00,Java;Spring;SQL,
+Sviluppatore,Sara Ricci,2300.00,JavaScript;React,
+Sviluppatore,Davide Marino,1900.00,Python;Django,
+Sviluppatore,Chiara Greco,2500.00,Java;Kotlin;Docker,
+Sviluppatore,Matteo Conti,2000.00,C#;.NET,
+Sviluppatore,Elena Gallo,2200.00,HTML;CSS;TypeScript,
+ConsulenteEsterno,Andrea Costa,2700.00,TechSolutions Srl,
+ConsulenteEsterno,Francesca Fontana,2900.00,DataLab SpA,
+ConsulenteEsterno,Simone Moretti,2600.00,InfoSystem Srl,
+ConsulentePiva,Valentina Barbieri,2400.00,6,
+ConsulentePiva,Federico Lombardi,2800.00,12,
+ConsulentePiva,Martina Giordano,2250.00,3,
